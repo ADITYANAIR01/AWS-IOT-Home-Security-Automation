@@ -1,6 +1,10 @@
 # Secrets — never commit
 aws-esp32/secrets.h
 
+# Device certificates & keys — never commit
+certs/
+aws-esp32/data/
+
 # OS / editor
 .DS_Store
 *.swp

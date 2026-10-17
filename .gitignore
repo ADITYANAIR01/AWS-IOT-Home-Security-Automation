@@ -1,0 +1,11 @@
+# Secrets — never commit
+aws-esp32/secrets.h
+
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# AWS credentials
+.aws/
